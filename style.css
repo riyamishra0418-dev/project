@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+nav {
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+}
+
+nav a {
+    margin: 15px;
+    color: navy;
+    text-decoration: none;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: navy;
+}
+
+footer {
+    text-align: center;
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
